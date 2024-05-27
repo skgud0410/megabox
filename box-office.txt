@@ -1,0 +1,331 @@
+ <!-- Slides -->
+    <div class="swiper-slide swiper-slide01">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster01.jpg" alt="범죄도시4"></div>
+                <div class="movie-num">1</div>
+                <div class="movie-content">
+                    <p>
+                        신종 마약 사건 3년 뒤,<br>
+                        괴물형사 ‘마석도’(마동석)와 서울 광수대는 배달앱을 이용한 마약 판매 사건을 수사하던 중
+                        수배 중인 앱 개발자가 필리핀에서 사망한 사건이
+                    </p>
+                    <span>관람평 : <span>0</span></span>
+                </div>
+            </div>
+            <div class="hit">1.4k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide02">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster02.jpg" alt="듄"></div>
+                <div class="movie-num">2</div>
+                <div class="movie-content">
+                    <p>
+                        10191년, 아트레이데스 가문의 후계자인 폴(티모시 샬라메)은 시공을 초월한 존재이자
+                        전 우주를 구원할 예지된 자의 운명을 타고났다.
+                    </p>
+                    <span>관람평 : <span>8.5</span></span>
+                </div>
+            </div>
+            <div class="hit">2.1k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide03">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster03.jpg" alt="레옹"></div>
+                <div class="movie-num">3</div>
+                <div class="movie-content">
+                    <p>
+                        정처 없이 떠돌며 살아가는 킬러, ‘레옹’(장 르노)<br>
+                        어느 날, 그의 이웃집 소녀 ‘마틸다’(나탈리 포트만)의 온가족이 몰살당한다
+                        우연히 살아남은 ‘마틸다’는 ‘레옹’에게 도움을 청하고,
+                        ‘레옹’은 하루아침에 소녀의 보호자가 되고 만다
+                    </p>
+                    <span>관람평 : <span>9.5</span></span>
+                </div>
+            </div>
+            <div class="hit">3.6k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide04">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster04.jpg" alt="쿵푸팬더4"></div>
+                <div class="movie-num">4</div>
+                <div class="movie-content">
+                    <p>
+                        마침내 내면의 평화… 냉면의 평화…가 찾아왔다고 믿는 용의 전사 ‘포’
+                        이젠 평화의 계곡의 영적 지도자가 되고, 자신을 대신할 후계자를 찾아야만 한다.
+                    </p>
+                    <span>관람평 : <span>8.6</span></span>
+                </div>
+            </div>
+            <div class="hit">1.9k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide05">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster05.jpg" alt="듄:파트2"></div>
+                <div class="movie-num">5</div>
+                <div class="movie-content">
+                    <p>
+                        황제의 모략으로 멸문한 가문의 유일한 후계자 폴.(티모시 샬라메)
+                        어머니 레이디 제시카(레베카 퍼거슨)와 간신히 목숨만 부지한 채 사막으로 도망친다.
+                        그곳에서 만난 반란군들과 숨어 지내다 그들과 함께 황제의 모든 것을 파괴할 전투를 준비한다.
+                    </p>
+                    <span>관람평 : <span>9.2</span></span>
+                </div>
+            </div>
+            <div class="hit">1.6k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide06">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster06.jpg" alt="8월의 크리스마스"></div>
+                <div class="movie-num">6</div>
+                <div class="movie-content">
+                    <p>
+                        상태이지만 모든 것을 받아들인 그의 일상은 지극히 담담할 뿐이다. 좋아하는 여학생사진을 확대해 달라며 아우성을 치는 중학생들과 젊은 시절의 사진을 복원해달라는 아주머니, 혼자찾아와 쓸쓸히 영정 사진을 찍는 할머니 등 소박한 이웃들속에 파묻혀 있다보면 죽음에 대한 공포따위는 아무런 문제도 안된다.
+                    </p>
+                    <span>관람평 : <span>9</span></span>
+                </div>
+            </div>
+            <div class="hit">2.4k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide07">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster07.jpg" alt="파묘"></div>
+                <div class="movie-num">7</div>
+                <div class="movie-content">
+                    <p>
+                        미국 LA, 거액의 의뢰를 받은 무당 ‘화림’(김고은)과 ‘봉길’(이도현)은 기이한 병이 대물림되는 집안의 장손을 만난다.
+                    </p>
+                    <span>관람평 : <span>9.1</span></span>
+                </div>
+            </div>
+            <div class="hit">3.5k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide08">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster08.jpg" alt="골드핑거"></div>
+                <div class="movie-num">8</div>
+                <div class="movie-content">
+                    <p>
+                        1980년대 홍콩 경제를 주무르던 황금제국 ‘카르멘 그룹’이 하루아침에 무너지고 그동안 자행됐던 불법들이 서서히 드러나며 2조 홍콩 달러에 달하는 대규모 수사가 시작된다. 불법으로 악명 높은 그룹의 수장 ‘청이옌’(양조위),
+                    </p>
+                    <span>관람평 : <span>7.5</span></span>
+                </div>
+            </div>
+            <div class="hit">1.9k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide09">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster09.jpg" alt="남은인생 10년"></div>
+                <div class="movie-num">9</div>
+                <div class="movie-content">
+                    <p>
+                        처음 만난 봄, 즐거운 여름, 아름답던 가을, 깊어진 겨울까지 하루하루 애틋하게 사랑한 두 사람 하지만 쌓이는 추억만큼 줄어드는 시간 앞에 결국 ‘마츠리’는 ‘카즈토’를 떠나기로 결심하는데
+                    </p>
+                    <span>관람평 : <span>8.7</span></span>
+                </div>
+            </div>
+            <div class="hit">0.6k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide10">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster10.jpg" alt="댓글부대"></div>
+                <div class="movie-num">10</div>
+                <div class="movie-content">
+                    <p>
+                        대기업에 대한 기사를 쓴 후 정직당한 기자 '임상진'에게 온라인 여론을 조작했다는 익명의 제보자가 나타나면서 벌어지는 이야기
+                    </p>
+                    <span>관람평 : <span>7.8</span></span>
+                </div>
+            </div>
+            <div class="hit">0.6k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide11">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster11.jpg" alt="고스트버스터즈"></div>
+                <div class="movie-num">11</div>
+                <div class="movie-content">
+                    <p>
+                        무더운 여름의 뉴욕의 어느 날, 고대 유물 속 깨어난 ‘데스칠’로 인해 정체불명의 냉기가 몰려오고 마침내 도시는 얼어붙고 만다.
+                    </p>
+                    <span>관람평 : <span>7.7</span></span>
+                </div>
+            </div>
+            <div class="hit">4.4k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide12">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster12.jpg" alt="유포니엄"></div>
+                <div class="movie-num">12</div>
+                <div class="movie-content">
+                    <p>
+                        키타우지 고등학교 관악부의 새로운 부장이 된 ‘쿠미코’. 아직 모든 것이 어색한 가운데 전국 앙상블 콘테스트 대표팀 오디션을 맡게 된다.
+                    </p>
+                    <span>관람평 : <span>9</span></span>
+                </div>
+            </div>
+            <div class="hit">0.9k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide13">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster13.jpg" alt="바람의 세월"></div>
+                <div class="movie-num">13</div>
+                <div class="movie-content">
+                    <p>
+                        돌아오지 못한 아이들을 기다리는 부모들이 있습니다. 아이들이 겪은 그날의 진실을 알아야 했기에 가족들과 시민들은 한마음으로 외쳤습니다
+                    </p>
+                    <span>관람평 : <span>7.8</span></span>
+                </div>
+            </div>
+            <div class="hit">0.5k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide14">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster14.jpg" alt="정순"></div>
+                <div class="movie-num">14</div>
+                <div class="movie-content">
+                    <p>
+                        딸 유진을 비롯한 모두가 정순을 대신해 분노할 때, 그녀는 여전히 곧고 다정하게 ‘정순’다운 내일을 시작하려 한다.
+
+                    </p>
+                    <span>관람평 : <span>0</span></span>
+                </div>
+            </div>
+            <div class="hit">0.4k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide15">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster15.jpg" alt="은하수"></div>
+                <div class="movie-num">15</div>
+                <div class="movie-content">
+                    <p>
+                        빛을 쫓지만 늘 빚에만 쫓기며 번번히 오디션에 떨어지는 3인조 밴드 은하수. 좌절할 순 없다! 티격태격하지만 알바를 전전하면서도 서로를 다독이며,
+                    </p>
+                    <span>관람평 : <span>8.5</span></span>
+                </div>
+            </div>
+            <div class="hit">0.9k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide16">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster16.jpg" alt="오맨:저주의 시작"></div>
+                <div class="movie-num">16</div>
+                <div class="movie-content">
+                    <p>
+                        수녀가 되기 위해 로마에 가게 된 ‘마거릿’(넬 타이거 프리). 그곳에서 새로운 삶을 시작하려는 그때, 믿음을 뒤흔드는 어둠의 그림자를 마주한다.
+                    </p>
+                    <span>관람평 : <span>8</span></span>
+                </div>
+            </div>
+            <div class="hit">2.4k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide17">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster17.jpg" alt="팝아트가 보여준 현대"></div>
+                <div class="movie-num">17</div>
+                <div class="movie-content">
+                    <p>
+                        팝 아트를 주도했던 현대 예술가들과 순수 예술을 고집하던 당시의 흐름에 대해 알아보는 시간. 예술은 정말 무슨 의미가 있는 것일까?
+                    </p>
+                    <span>관람평 : <span>0</span></span>
+                </div>
+            </div>
+            <div class="hit">0.0k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide18">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster18.jpg" alt="비키퍼"></div>
+                <div class="movie-num">18</div>
+                <div class="movie-content">
+                    <p>
+                        그곳의 전설로 남은 탑티어 에이전트 '애덤 클레이'는 기관의 눈을 피해 자취를 감추고 양봉가로 살아간다.
+                    </p>
+                    <span>관람평 : <span>8.0</span></span>
+                </div>
+            </div>
+            <div class="hit">0.9k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide19">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster19.jpg" alt="땅에 쓰는 시"></div>
+                <div class="movie-num">19</div>
+                <div class="movie-content">
+                    <p>
+                        국내 최초의 생태공원 여의도 샛강생태공원, 과거와 현재를 잇는 경춘선 숲길까지···
+                    </p>
+                    <span>관람평 : <span>9.5</span></span>
+                </div>
+            </div>
+            <div class="hit">1.0k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
+    <div class="swiper-slide swiper-slide20">
+        <div class="poster-wrap">
+            <div class="poster-box">
+                <div class="img-box"><img src="./images/img-poster20.jpg" alt="로봇 드림"></div>
+                <div class="movie-num">20</div>
+                <div class="movie-content">
+                    <p>
+                        TV를 보다 홀린 듯 반려 로봇을 주문하고 그와 둘도 없는 단짝이 되어 행복한 나날을 보낸다
+                    </p>
+                    <span>관람평 : <span>9.3</span></span>
+                </div>
+            </div>
+            <div class="hit">0.8k</div>
+            <div class="ticketing">예매</div>
+        </div>
+    </div>
